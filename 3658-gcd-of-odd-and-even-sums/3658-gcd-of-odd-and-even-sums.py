@@ -1,8 +1,7 @@
 class Solution:
     def gcd(self, a: int, b: int)->int:
-        while b:
-            a, b=b, a%b
-        return a
+        
+        return gcd(b, a%b)
 
     def gcdOfOddEvenSums(self, n: int) -> int:
         sumOdd=n*n
