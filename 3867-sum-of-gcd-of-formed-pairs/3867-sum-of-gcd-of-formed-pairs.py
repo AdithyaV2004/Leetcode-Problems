@@ -8,7 +8,7 @@ class Solution:
         for i in range(l):
             g=max(g, nums[i])
             nums[i]=self.gcd(nums[i], g)
-        nums=sorted(nums)
+        nums.sort()
         lp=0
         rp=l-1
         while lp<rp:
