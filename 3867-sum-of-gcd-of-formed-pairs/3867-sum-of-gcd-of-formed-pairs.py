@@ -1,6 +1,6 @@
 class Solution:
     def gcd(self, a, b):
-        return a if b==0 else self.gcd(b, a%b)
+        return a if b==0 else gcd(b, a%b)
     def gcdSum(self, nums: list[int]) -> int:
         sum=0
         prefix=[]
