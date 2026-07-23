@@ -11,12 +11,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -88,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->
