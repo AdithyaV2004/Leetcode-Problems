@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -105,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
