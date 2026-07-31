@@ -132,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2924-find-champion-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/2924-find-champion-ii/) | Medium |
 <!---LeetCode Topics End-->
