@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -136,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2924-find-champion-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/2924-find-champion-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
