@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
