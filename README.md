@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0127-word-ladder](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0415-add-strings](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
