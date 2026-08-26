@@ -16,8 +16,8 @@ class Solution:
             for _ in range(count):
                 if p >= n:
                     p = 1 
-                # if l[p] != "":
-                #     return "" 
+                if l[p] != "":
+                    return "" 
                 l[p] = char
                 p += 2
         return "".join(l)
