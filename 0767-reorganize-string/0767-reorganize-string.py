@@ -1,21 +1,23 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
-        count = Counter(s)
-        maxHeap=[ [cnt, char] for char, cnt in count.items() ]
-        heapq.heapify_max(maxHeap)
-
-        prev = None
-        res=""
-        while maxHeap or prev:
-            if prev and not maxHeap:
-                return ""
-            cnt, char = heapq.heappop_max(maxHeap)
-            res+=char
-            cnt-=1
-            if prev:
-                heapq.heappush_max(maxHeap, prev)
-                prev=None
-            if cnt>0:
-                prev=[cnt, char]
-        return res
-        
+        n = len(s)
+        d = {}
+        for i in s:
+            if i not in d:
+                d[i]=0
+            d[i]+=1
+        max_freq = max(d.values())
+        if max_freq > (n + 1) // 2:
+            return ""
+        l = [""] * n
+        chars = sorted(d.items(), key=lambda x: -x[1])
+        p = 0
+        for char, count in chars:
+            for _ in range(count):
+                if p >= n:
+                    p = 1 
+                # if l[p] != "":
+                #     return "" 
+                l[p] = char
+                p += 2
+        return "".join(l)
