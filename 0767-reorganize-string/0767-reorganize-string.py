@@ -15,9 +15,7 @@ class Solution:
         for char, count in chars:
             for _ in range(count):
                 if p >= n:
-                    p = 1 
-                if l[p] != "":
-                    return "" 
+                    p = 1  
                 l[p] = char
                 p += 2
         return "".join(l)
