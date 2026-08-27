@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0127-word-ladder](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0415-add-strings](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -176,4 +177,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0767-reorganize-string/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
