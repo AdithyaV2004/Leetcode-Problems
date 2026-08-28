@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0739-daily-temperatures](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0739-daily-temperatures](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0739-daily-temperatures](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
