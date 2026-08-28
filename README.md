@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
