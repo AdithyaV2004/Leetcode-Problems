@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -225,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
