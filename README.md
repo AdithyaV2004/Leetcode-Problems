@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0752-open-the-lock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0767-reorganize-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0415-add-strings](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0752-open-the-lock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0767-reorganize-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
+| [0752-open-the-lock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0752-open-the-lock/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
