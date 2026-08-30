@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0415-add-strings](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -290,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0752-open-the-lock/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
