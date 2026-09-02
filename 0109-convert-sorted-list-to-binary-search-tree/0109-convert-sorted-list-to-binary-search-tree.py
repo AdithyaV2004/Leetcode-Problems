@@ -22,7 +22,7 @@ class Solution:
             slow=slow.next
             fast=fast.next.next
         root=TreeNode(slow.val)
-        if slowPrev: slowPrev.next=None
+        slowPrev.next=None
         root.left=self.sortedListToBST(head)
         root.right=self.sortedListToBST(slow.next)
         return root
