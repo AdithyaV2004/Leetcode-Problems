@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
