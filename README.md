@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/AdithyaV2004/Leetcode-Problems/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
