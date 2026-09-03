@@ -3,9 +3,7 @@ class Solution:
         s=0
         maxSum=nums[0]
         for i in nums:
-            if s<0:
-                s=0
-            s+=i
+            s=max(i, s+i)
             maxSum=max(maxSum, s)
         return maxSum
 
