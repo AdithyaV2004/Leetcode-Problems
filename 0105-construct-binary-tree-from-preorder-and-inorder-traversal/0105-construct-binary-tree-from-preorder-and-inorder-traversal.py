@@ -13,8 +13,8 @@ class Solution:
             ind+=1
         ls=preorder[1:ind+1]
         rs=preorder[ind+1:]
-        lNode = self.buildTree(ls, inorder[:ind])
-        rNode = self.buildTree(rs, inorder[ind+1:])
+        lNode = self.buildTree(ls, inorder[:ind]) if len(ls)>0 else None
+        rNode = self.buildTree(rs, inorder[ind+1:]) if len(rs)>0 else None
         return TreeNode(preorder[0], lNode, rNode)
 
         
