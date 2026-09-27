@@ -1,13 +1,19 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: list[str]) -> bool:
+        idx=0
         n=len(s)
-        dp=[False]*(n+1)
+        dp=[None]*(n+1)
         dp[n]=True
-        for i in range(n-1,-1, -1):
-            for w in wordDict:
-                if (i+len(w))<=len(s) and s[i: i+len(w)]==w:
-                    dp[i]=dp[i+len(w)]
-                if dp[i]:
-                    break
-        return dp[0]
+        def decision_tree(idx):
+            if dp[idx] is not None:
+                return dp[idx]
+            for i in wordDict:
+                l=len(i)                
+                if i==s[idx:idx+l]:
+                    if decision_tree(idx+l):
+                        dp[idx] = True
+                        return True
+            dp[idx]=False
+            return False
+        return decision_tree(0)
 
