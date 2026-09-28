@@ -12,7 +12,7 @@ class Solution:
             else:
                 dp[i][j]=False
             return dp[i][j]
-        maxlen=0
+        maxlen=float("-inf")
         sp=0
         for i in range(n):
             for j in range(i, n):
