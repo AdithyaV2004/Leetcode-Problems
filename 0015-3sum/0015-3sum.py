@@ -3,7 +3,7 @@ class Solution:
         l=[]
         nums.sort()
         n=len(nums)
-        for i, j in enumerate(nums[:-2]):
+        for i, j in enumerate(nums):
             if i>0 and nums[i]==nums[i-1]:
                 continue
             lp, rp=i+1, n-1
