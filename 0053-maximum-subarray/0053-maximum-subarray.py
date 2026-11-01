@@ -1,10 +1,10 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        s=0
-        maxSum=nums[0]
+        s=float('-inf')
+        maxSum=float('-inf')
         for i in nums:
             s=max(i, s+i)
-            maxSum=max(maxSum, s)
+            maxSum=max(s, maxSum)
         return maxSum
 
 
