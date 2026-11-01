@@ -1,14 +1,12 @@
 class Solution:
     def search(self, nums: list[int], target: int) -> int:
-        l, r = 0, len(nums)-1
-        def bin_ser(lp, rp):
-            if lp>rp:
-                return -1
+        lp, rp = 0, len(nums)-1
+        while lp<=rp:
             mp=(lp+rp)//2
             if nums[mp]==target:
                 return mp
             elif nums[mp]<target:
-                return bin_ser(mp+1, rp)
+                lp=mp+1
             else:
-                return bin_ser(lp, mp-1)
-        return bin_ser(l, r)
+                rp=mp-1
+        return -1
