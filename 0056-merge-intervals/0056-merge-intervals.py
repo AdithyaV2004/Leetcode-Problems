@@ -5,8 +5,7 @@ class Solution:
         for s,e in intervals[1:]:
             end = l[-1][1]
             if s <= end :
-                if e>end:
-                    l[-1][1] = e
+                l[-1][1]=max(e, end)
             else:
                 l.append([s, e])
         return l
