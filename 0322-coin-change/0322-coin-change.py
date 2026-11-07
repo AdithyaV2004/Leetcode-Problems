@@ -1,6 +1,5 @@
 class Solution:
     def coinChange(self, coins: list[int], amount: int) -> int:
-        coins.sort(reverse=True)
         n=len(coins)
         dp=[[-1]*(amount + 1) for _ in range(n + 1)]
         def choose(idx, amount):
